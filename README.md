@@ -1,4 +1,4 @@
-# Java REST in Spring
+# REST API using Spring
 
 A REST API is developed using spring framework. The API takes the input, and provides the results of task 1 and task 2. The two tasks are described below in details. The code and documentation for task 1 and task 2  is provided inside the `task` folder, whereas for task 3 it is provided in `task_algorithm03` folder.
 
