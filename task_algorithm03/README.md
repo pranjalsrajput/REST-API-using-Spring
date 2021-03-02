@@ -12,7 +12,7 @@
 * API is tested on windows 10
 
 ## Getting started
- The source code for the API is available at `jbu-1613587791\task_algorithm03\restservice`.  
+ The source code for the API is available at `\task_algorithm03\restservice`.  
 
 ### Package and File Description
 All the files are present in `src\main\java\`
@@ -27,7 +27,7 @@ File `RestserviceApplication.java` is the main file for launching the applicatio
 ## How to launch the app?
 To run the application,
 
-Navigate to restservice directory using `cd jbu-1613587791\task_algorithm03\restservice`
+Navigate to restservice directory using `cd \task_algorithm03\restservice`
 Run `./mvnw spring-boot:run` via terminal
 
 ## Sending requests to the API
